@@ -6,7 +6,7 @@
 
 ### Project Description:
 
-The **LUENN (Localization Under Entangled Neural Networks)** project is an innovative solution to enhance the temporal resolution of Single-Molecule Localization Microscopy (SMLM), a powerful technique for visualizing sub-cellular structures. LUENN introduces a deep convolutional neural network (CNN) architecture that challenges the isolated emitter assumption, leading to improved accuracy in SMLM.
+The **LUENN (Localization of Ultra-dense Emitters with Neural Networks)** project is an innovative solution to enhance the temporal resolution of Single-Molecule Localization Microscopy (SMLM), a powerful technique for visualizing sub-cellular structures. LUENN introduces a deep convolutional neural network (CNN) architecture that challenges the isolated emitter assumption, leading to improved accuracy in SMLM.
 
 LUENN is implemented as a Python package using TensorFlow, a popular machine learning framework. This project offers significant benefits across various imaging modalities and frame densities, making it a valuable tool for researchers in the field. [paper](https://arxiv.org/abs/2305.05542)
 
