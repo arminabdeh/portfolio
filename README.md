@@ -40,7 +40,8 @@ LUENN is implemented as a Python package using TensorFlow, a popular machine lea
 
 Watch a 3D reconstruction of a live cell achieved using LUENN:
 
-![LUENN 3D Reconstruction](https://user-images.githubusercontent.com/61014265/219693582-acd024b2-b547-496d-9136-95d91459288e.mp4)
+![LUENN 3D Reconstruction]([https://user-images.githubusercontent.com/61014265/219693582-acd024b2-b547-496d-9136-95d91459288e.mp4](https://user-images.githubusercontent.com/61014265/219693582-acd024b2-b547-496d-9136-95d91459288e.mp4
+))
 
 ## Contributors:
 
